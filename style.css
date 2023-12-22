@@ -688,9 +688,7 @@ transform: scale(1.02);
   margin: 1rem 0 3rem;
 }
 .product-box img{
-  justify-content: center;
-  align-items: center;
-  margin-left: 17%;
+  margin-left: 14%;
 }
 .Pimage{
   width: 35rem;
